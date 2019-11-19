@@ -14,6 +14,7 @@ public class SplashActivity extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
 
         splashImg = findViewById(R.id.splash_img);
+        //asd
 
     }
 }
