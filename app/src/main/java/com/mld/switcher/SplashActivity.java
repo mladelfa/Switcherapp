@@ -15,6 +15,7 @@ public class SplashActivity extends AppCompatActivity {
 
         splashImg = findViewById(R.id.splash_img);
         //asd
+        //asdasdasdasd
 
     }
 }
